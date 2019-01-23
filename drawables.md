@@ -1,8 +1,3 @@
----
-layout: page
-title: Drawables
----
-
 # Drawables
 - If you’re assigning Drawable programmatically to multiple views and you’re modifying it’s properties - make sure to create each drawable with separate state:  
     ```
