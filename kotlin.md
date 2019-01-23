@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Kotlin
 
 Ever had trouble with refactoring kotlin with Dagger?  
