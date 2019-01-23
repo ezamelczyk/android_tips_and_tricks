@@ -3,4 +3,5 @@ layout: page
 title: Home
 ---
 # Espeo Android Tips and tricks
-[Drawables](drawables.md)
+1. [Drawables](drawables.md)
+2. [Kotlin](kotlin.md)
